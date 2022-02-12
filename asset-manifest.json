@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/burgerbro/static/css/main.0b1e9fcb.css",
+    "main.js": "/burgerbro/static/js/main.f94541fe.js",
+    "static/js/787.3cff23d9.chunk.js": "/burgerbro/static/js/787.3cff23d9.chunk.js",
+    "static/media/pngegg.png": "/burgerbro/static/media/pngegg.579d1046844f827fff16.png",
+    "static/media/bacon.png": "/burgerbro/static/media/bacon.f35140aa666e71841e5c.png",
+    "static/media/breadTop.png": "/burgerbro/static/media/breadTop.b9ce824935981ceaed0b.png",
+    "static/media/salad.png": "/burgerbro/static/media/salad.f1af036f4b41c7bbfe47.png",
+    "static/media/pickles.png": "/burgerbro/static/media/pickles.914558aa639fa37c70f6.png",
+    "static/media/spycySauce.png": "/burgerbro/static/media/spycySauce.1dd57bad5ca85d794533.png",
+    "static/media/mustard.png": "/burgerbro/static/media/mustard.1978c2f0daf31147e9b2.png",
+    "static/media/mayonnaise.png": "/burgerbro/static/media/mayonnaise.0dd98e074a08a996b93b.png",
+    "static/media/breadBottom.png": "/burgerbro/static/media/breadBottom.18dcbd8682ada414bc3e.png",
+    "static/media/ketchup.png": "/burgerbro/static/media/ketchup.f4fc29e7e8ed5d077d8e.png",
+    "static/media/humburger.png": "/burgerbro/static/media/humburger.527f34ac7759f23497cf.png",
+    "index.html": "/burgerbro/index.html",
+    "main.0b1e9fcb.css.map": "/burgerbro/static/css/main.0b1e9fcb.css.map",
+    "main.f94541fe.js.map": "/burgerbro/static/js/main.f94541fe.js.map",
+    "787.3cff23d9.chunk.js.map": "/burgerbro/static/js/787.3cff23d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b1e9fcb.css",
+    "static/js/main.f94541fe.js"
+  ]
+}
